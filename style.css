@@ -1,0 +1,17 @@
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: rgb(90, 221, 90);
+    text-shadow: 4px 4px 5px black;
+}
+h2 {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+hr {
+    box-shadow: 1px 0.5px 4px
+}
+.by_Jov {
+    text-align: right;
+    
+}
